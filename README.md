@@ -2,7 +2,7 @@
 An unobtrusive and configurable Heads-Up-Display for Virt-A-Mate.
 
 # Installation
-Place the `VAM-HUD.cs` file in your VAM Scripts folder.
+Place the [latest `VAM-HUD.cs` file](https://github.com/morph1sm/vam-hud/releases) in your VAM Scripts folder.
 
 # Usage
 Load the script as a **Session** plugin.
